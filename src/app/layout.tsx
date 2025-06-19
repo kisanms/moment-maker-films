@@ -8,4 +8,4 @@ function layout() {
   );
 }
 
-export default layout<p>;
+export default layout;
